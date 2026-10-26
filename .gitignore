@@ -1,0 +1,16 @@
+# Jupyter and Python-generated files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Local environments and editor settings
+.venv/
+venv/
+env/
+.env
+.idea/
+.vscode/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
